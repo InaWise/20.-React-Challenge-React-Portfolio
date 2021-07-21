@@ -23,3 +23,6 @@ GraphQL - Query language for APIs
 React - Front-End JavaScript library
 Bootstrap 4 - Front-End UI library
 Sass - CSS extension language
+
+
+![image](https://user-images.githubusercontent.com/77795818/126538651-5f6c3471-7af6-47a1-abe4-8152c08ecd42.png)
