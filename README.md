@@ -12,7 +12,7 @@ $ npm run develop
 
 
 Contributors
-Jacobo Martinez - [Template](https://github.com/cobidev/gatsby) 
+Jacobo Martinez - [Template](https://github.com/cobidev/gatsby-simplefolio) 
 
 
 
