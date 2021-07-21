@@ -39,7 +39,10 @@ $ npm run develop
 
 
 Contributors
-Jacobo Martinez - https://github.com/cobidev & Ina Wise
+Jacobo Martinez - https://github.com/cobidev
+
+
+[ORIGINAL CLONE REPO](https://github.com/cobidev/gatsby) 
 
 
 Technologies used 🛠️
