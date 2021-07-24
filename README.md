@@ -1,3 +1,8 @@
+[heroku live site](https://vast-everglades-57738.herokuapp.com/)
+
+
+[repo link](https://github.com/InaWise/20.-React-Challenge-React-Portfolio/edit/main/README.md)
+
 Description
 AS AN employer looking for candidates with experience building single-page applications
 I WANT to view a potential employee's deployed React portfolio of work samples
